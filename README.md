@@ -1,11 +1,11 @@
-**Marianna Demenko**
+#Marianna Demenko
 
-Software Developer
+##Software Developer
 
 https://github.com/Mdemenko1 • (404) 834-0906 •
 mariannademenko\@gmail.com • 112 Baberton Drive, Apex, NC, 27502
 
-Overview
+###Overview
 
 Eager to build upon existing coding experience. Overall, an enthusiastic
 person with a lot of self-motivation, as well as, proven ability to
@@ -13,30 +13,27 @@ manage small groups of people on separation of duties at the workplace.
 Very self-controlled and has responsible approach to the implementation
 of tasks. Systematic professional development competence is applying.
 
-Education
+####Education
+ **Code the Dream Online School** 
+  (June 2020 - January 2021)
+  Obtained Certificate of comletion Software development courses:
 
--   Code the Dream Online School (started June 2020 )
+- HTML and CSS
+- Javascript
+- React
 
--   HTML5, CSS, JavaScript ES6,
-
--   Bootstrap, React Bootstrap
-
--   React, Chrome Firebase
-
--   VS Code
-
-
--   University of North Carolina at Chapel Hill, Chapel Hill, NC
-    > (Economics Major -- Part Time)
+**University of North Carolina at Chapel Hill, Chapel Hill, NC**
+ (Economics Major -- Part Time)
 
 
--   Central Piedmont Community College, Charlotte, NC
+**Central Piedmont Community College, Charlotte, NC**
+(2017-2019)
 
 
--   Associates in Arts, 2017-2019; 4.0 G.P.A. (Member of Phi Theta Kappa
+-   Associates in Arts Degree; 4.0 G.P.A. (Member of Phi Theta Kappa
     Honor Society)
 
-Professional Experience
+###Professional Experience
 
 **North Carolina State University**
 
@@ -78,9 +75,11 @@ Professional Experience
 
 -   Managing daily preparations for serving food and beverages at the concierge zone.
 
-Languages & Skills
-
+####Languages:
 -   English, Russian(native)
-
 -   MS Office (Excel, Word, Outlook)
-
+####Skills:
+-   HTML5, CSS, JavaScript ES6,
+-   Bootstrap, React Bootstrap
+-   React, Chrome Firebase
+-   VS Code
