@@ -18,7 +18,7 @@ Education
 -   Code the Dream Online School (started June 2020 )
 
 ```{=html}
-<!-- -->
+
 ```
 -   HTML5, CSS, JavaScript ES6,
 
@@ -29,18 +29,18 @@ Education
 -   VS Code
 
 ```{=html}
-<!-- -->
+
 ```
 -   University of North Carolina at Chapel Hill, Chapel Hill, NC
     > (Economics Major -- Part Time)
 
 ```{=html}
-<!-- -->
+
 ```
 -   Central Piedmont Community College, Charlotte, NC
 
 ```{=html}
-<!-- -->
+
 ```
 -   Associates in Arts, 2017-2019; 4.0 G.P.A. (Member of Phi Theta Kappa
     Honor Society)
@@ -93,5 +93,3 @@ Languages & Skills
 
 -   MS Office (Excel, Word, Outlook)
 
-Typescript, SCSS, jQuery, WordPress, PHP, SQL, ASP.NET, Software
-development
