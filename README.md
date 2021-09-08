@@ -81,14 +81,11 @@ Professional Experience
 
 **Guest Experience Expert** (2018-2019)
 
--   Delivering a wide range of services that guide guests through their
-    > stay in hotel.
+-   Delivering a wide range of services that guide guests through their stay in hotel.
 
--   Processing operational needs, addressing guest requests, completing
-    > reports.
+-   Processing operational needs, addressing guest requests, completing reports.
 
--   Managing daily preparations for serving food and beverages at the
-    > concierge zone.
+-   Managing daily preparations for serving food and beverages at the concierge zone.
 
 Languages & Skills
 
