@@ -7,23 +7,17 @@ mariannademenko\@gmail.com • 112 Baberton Drive, Apex, NC, 27502
 
 ###Overview
 
-Eager to build upon existing coding experience. Overall, an enthusiastic
-person with a lot of self-motivation, as well as, proven ability to
-manage small groups of people on separation of duties at the workplace.
-Very self-controlled and has responsible approach to the implementation
-of tasks. Systematic professional development competence is applying.
+Pivoting from Finance into Tech/Bootcamp Experience /Years of experience with Problem Solving/ Multiple Projects Completed
 
 ####Education
  **Code the Dream Online School** 
   (June 2020 - January 2021)
   Obtained Certificate of comletion Software development courses:
 
-- HTML and CSS
-- Javascript
-- React
-
-**University of North Carolina at Chapel Hill, Chapel Hill, NC**
- (Economics Major -- Part Time)
+- HTML5, CSS, Javascript ES6
+- Bootstrap, React Bootstrap
+- React, Chrome Firebase
+- VS Code
 
 
 **Central Piedmont Community College, Charlotte, NC**
@@ -39,47 +33,41 @@ of tasks. Systematic professional development competence is applying.
 
 **Technical Support Specialist** (2021-Present)
 
--   Reengineering an in-house shipping program to an updated system
-    based on a Laravel (PHP language) framework with a supporting SQL
-    database to facilitate management of inventory levels of test
-    materials. In the meantime, I help facilitate field users while
-    using the NCTest application and its subsequent systems.
+-   Reengineering an in-house shipping program to an updated system based on a Laravel (PHP language) framework with a supporting SQL database to facilitate management of inventory levels of test materials.
 
-**Code the Dream Online School**
+-	Help facilitate field users while using the NCTest application and its subsequent systems, ensuring the entire North Carolina educational system is stable and functional for all students and counties.
 
-**Professional Experience**
 
--   React App - https://mdemenko1.github.io/mayla-co/#/
 
 **Thomas, Judy & Tucker, P.A, Raleigh, NC**
 
 **Account Representative** (2019-2020)
 
+- Problem solving on a daily basis in regards to addressing issues with various levels of scope.
+
 -   Bank Reconciliation for AP accounts.
 
--   Accounting for over \$100,00 cash transactions weekly for 40
-    locations.
+-   Accounting for over \$100,000 cash transactions weekly for 40 locations.
 
 -   Accounts payable and accounts receivable for 40 locations.
 
--   Completing special projects like obtaining variety of licenses
-    (business, food).
+- Completing self-taught industry specific training; obtaining variety of industry licenses (business, food, etc.).
 
-**Marriott International, Inc., Charlotte, NC**
 
-**Guest Experience Expert** (2018-2019)
 
--   Delivering a wide range of services that guide guests through their stay in hotel.
 
--   Processing operational needs, addressing guest requests, completing reports.
-
--   Managing daily preparations for serving food and beverages at the concierge zone.
-
-####Languages:
--   English, Russian(native)
+####Languages & Skills:
+-   English(fluent), Russian(native)
 -   MS Office (Excel, Word, Outlook)
-####Skills:
+- Front and back end web development
+- Database integration
+- Object oriented programming 
+
+####Coding Languages:
 -   HTML5, CSS, JavaScript ES6,
--   Bootstrap, React Bootstrap
--   React, Chrome Firebase
--   VS Code
+-   PHP
+-   SQL
+
+####Projects:
+- React App - https://mdemenko1.github.io/mayla-co/#/
+- NC State in house shipping website refurbishing (Proprietary, unable to share) ET
