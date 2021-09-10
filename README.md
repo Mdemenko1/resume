@@ -3,7 +3,7 @@
 ## Software Developer
 
 https://github.com/Mdemenko1 • (404) 834-0906 •
-mariannademenko\@gmail.com • 112 Baberton Drive, Apex, NC, 27502
+mariannademenko@gmail.com • 112 Baberton Drive, Apex, NC, 27502
 
 ### Overview
 
